@@ -1,4 +1,8 @@
 #include "main.h"
+/**
+  * print_alphabet - Entry point
+  * Description: 'prints'
+  */
 
 void print_alphabet(void)
 {
